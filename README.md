@@ -1,2 +1,2 @@
 # Rosalind
-My solutions to the Rosalind's programming challenges
+My solutions to Rosalind's programming challenges
