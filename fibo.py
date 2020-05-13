@@ -15,7 +15,7 @@ def parse_data(filename):
 def fibo(fibo_dest):
     if fibo_dest < 2:
         return fibo_dest
-        
+
     sequence = [0, 1]
     for i in range(fibo_dest - 1):
         sequence.append(sequence[i] + sequence[i + 1])
